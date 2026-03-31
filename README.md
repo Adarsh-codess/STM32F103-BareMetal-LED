@@ -36,3 +36,4 @@ The program uses a bitwise `XOR` operation on the Output Data Register (`ODR`) t
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Adarsh-codess/STM32F103-BareMetal-LED.git](https://github.com/Adarsh-codess/STM32F103-BareMetal-LED.git)
+![20260331_121622 jpg](https://github.com/user-attachments/assets/23a4494b-334a-4377-8526-f09585d5d3db)
