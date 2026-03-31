@@ -6,7 +6,7 @@ A low-level firmware implementation for the STM32F103 (ARM Cortex-M3) that contr
 The goal of this project is to interface with the STM32 hardware at the memory-mapped I/O level. By manually configuring the Reset and Clock Control (RCC) and GPIO registers, the firmware executes a precise lighting sequence across multiple ports.
 
 ## 🛠 Hardware Used
-* **Microcontroller:** STM32F103C8T6 (Blue Pill) or STM32F1 Nucleo-64.
+* **Microcontroller:** STM32F103RB Nucleo-64.
 * **Architecture:** ARM Cortex-M3.
 * **Peripherals:** GPIO Port A, GPIO Port B.
 
